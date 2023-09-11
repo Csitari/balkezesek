@@ -1,0 +1,8 @@
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\bin\Debug\balkezesek.exe.config
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\bin\Debug\balkezesek.exe
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\bin\Debug\balkezesek.pdb
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.AssemblyReference.cache
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.SuggestedBindingRedirects.cache
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.CoreCompileInputs.cache
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\obj\Debug\balkezesek.exe
+C:\Users\CsitariA\Desktop\Backend\balkezesek\balkezesek\obj\Debug\balkezesek.pdb
